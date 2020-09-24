@@ -1,0 +1,12 @@
+{
+  "test": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://admin:admin@ds163053.mlab.com:63053/db-blog-testing",
+    "JWT_SECRET": "ICANDOIT"
+  },
+  "development": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://admin:admin@ds157078.mlab.com:57078/blog",
+    "JWT_SECRET": "IAMSUPERPOWERS"
+  }
+}
